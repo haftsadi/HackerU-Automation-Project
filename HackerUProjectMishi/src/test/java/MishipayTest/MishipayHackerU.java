@@ -193,6 +193,7 @@ public class MishipayHackerU {
 		executor1.executeScript("arguments[0].click()", cachebutton);
 		Thread.sleep(3000);
 		
+		Thread.sleep(5000);		
 		
 	}
 	
