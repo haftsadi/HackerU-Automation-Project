@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-03T15:35:37 IDT" name="Default suite" finished-at="2021-10-03T15:36:11 IDT" duration-ms="33988">
+    <groups>
+    </groups>
+    <test started-at="2021-10-03T15:35:37 IDT" name="Default test" finished-at="2021-10-03T15:36:11 IDT" duration-ms="33988">
+      <class name="MishipayTest.MishipayHackerU">
+        <test-method signature="registrationTest()[pri:0, instance:MishipayTest.MishipayHackerU@2e222612]" started-at="2021-10-03T15:35:37 IDT" name="registrationTest" finished-at="2021-10-03T15:36:11 IDT" duration-ms="33846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+      </class> <!-- MishipayTest.MishipayHackerU -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
